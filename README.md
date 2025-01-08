@@ -23,7 +23,6 @@ Jumper wires and connectors
 Software:
 
 Arduino IDE (with ESP32 board support installed)
-Required libraries (detailed below)
 
 How It Works
 
